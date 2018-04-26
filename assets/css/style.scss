@@ -2,3 +2,59 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background-color: #efefef;
+}
+
+header {
+  display: flex;
+  flex-direction: column-reverse;
+
+  img {
+    border-radius: 10px;
+  }
+
+  h1 {
+    order: 1;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
+
+.view {
+  display: none;
+}
+
+ul {
+  li {
+    list-style: none;
+    margin-bottom: 50px;
+
+    img {
+      border-radius: 10px;
+      max-width: 100%;
+      max-height: 360px;
+      min-width: 100%;
+      object-fit: cover;
+      object-position: 50% 0;
+    }
+
+    ul {
+      margin-top: 10px;
+      padding: 0;
+      li {
+        &:first-child {
+          font-size: large;
+        }
+        &:not(:first-child) {
+          list-style: circle;
+          margin-left: 14px;
+        }
+        margin-bottom: auto;
+      }
+    }
+  }
+}
