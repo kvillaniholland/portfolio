@@ -1,5 +1,6 @@
 ---
 title: Keenan Villani-Holland
+TODO: add controller, fix title fuckup
 ---
 
 # Portfolio
@@ -15,20 +16,24 @@ title: Keenan Villani-Holland
   - Refactored legacy build system in order to streamline it an provide support for **ES6**.
   - Implemented designs by and external design team.
   - Helped coordinate development, delivery and project planning as project anchor.
-- ![eMeal](assets/images/emeal.jpg)
+- ![eMeal](assets/images/emeal.png)
   - eMeal
   - Developed a single page app using **Laravel** for the APP and **Backbone.js** for the frontend.
   - Built integration with **Omnivore.io** to connect the eMeal to POS systems in restaurants.
-- ![HomeView](assets/images/homeview.jpg)
+- ![HomeView](assets/images/homeview.png)
   - HomeView
   - Built using **React** and **Redux**.
   - Assisted with complete rewrite of the app, using an existing API.
   - Brought the rewrite to feature parity with the legacy app.
+- ![GMP Controller](assets/images/controller.png)
+  - Green Mountain Power Controller
+  - Maintained and extended internal tools for Green Mountain Power.
+  - Built with **Angular**.
 - ![EstateAlerts](assets/images/ea.png)
   - EstateAlerts
   - Assisted with various bugs and improvements on both the backend (**Laravel**) and front-end (**React**, **Redux**).
   - Extensive debugging of the automated alert system built with **Laravel** and **AWS** (using **SNS** and **Lambda**).
-- ![DC Greens](assets/images/dcg.jpg  )
+- ![DC Greens](assets/images/dcg.png)
   - DC Greens
   - Helped build an admin dashboard using **React** and **Redux**.
   - Helped maintain the API built with **Laravel**.
