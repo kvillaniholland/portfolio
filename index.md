@@ -1,19 +1,22 @@
 ---
 title: Keenan Villani-Holland
-TODO: add controller, fix title fuckup
 ---
+# About Me
+[Resume](assets/downloads/KeenanVillaniHolland.pdf) | [GitHub](http://github.com/kvillaniholland) | [LinkedIn](https://www.linkedin.com/in/keenan-villani-holland-a8381a69) | [Email](mailto:kvillaniholland@gmail.com)
+
+I'm a web developer currently living in Tokyo. I care about keeping my code elegant, clean and maintainable. I have experience building and deploying web apps from scratch as well as working within various content management systems. I love learning to use new languages, frameworks and tools.
+
 
 # Portfolio
 - ![Localvore](assets/images/localvore.png)
   - Localvore  
-  - Built and maintained a site redesign.
-  - Single page app using **Laravel** for the API and **Backbone.js** for the frontend.
+  - Built and maintained a single page app using **Laravel** for the API and **Backbone.js** for the frontend.
   - Helped coordinate development and delivery as project anchor.
 - ![Green Mountain Power](assets/images/gmp.jpg)
   - Green Mountain Power
   - Maintained and developed a custom **Wordpress** theme, including custom plugin development
    and extensive use of **Advanced Custom Fields**.
-  - Refactored legacy build system in order to streamline it an provide support for **ES6**.
+  - Refactored legacy build system in order to streamline it, and provide support for **ES6**.
   - Implemented designs by and external design team.
   - Helped coordinate development, delivery and project planning as project anchor.
 - ![eMeal](assets/images/emeal.png)
@@ -22,9 +25,9 @@ TODO: add controller, fix title fuckup
   - Built integration with **Omnivore.io** to connect the eMeal to POS systems in restaurants.
 - ![HomeView](assets/images/homeview.png)
   - HomeView
-  - Built using **React** and **Redux**.
-  - Assisted with complete rewrite of the app, using an existing API.
+  - Assisted with a complete rewrite of the frontend using **React** and **Redux**.
   - Brought the rewrite to feature parity with the legacy app.
+  - Developed a mobile app with **Cordova**.
 - ![GMP Controller](assets/images/controller.png)
   - Green Mountain Power Controller
   - Maintained and extended internal tools for Green Mountain Power.
@@ -41,11 +44,3 @@ TODO: add controller, fix title fuckup
 - ![Wildfire](assets/images/wf.png)
   - WildFire
   - Built the first version of the API using **Node**, **Express** and **AWS DynamoDB**.
-
-# Skills
-These are the tools I'm most familiar with, but learning new ones isn't an issue!
-
-**Amazon Web Services** (Elastic Compute Cloud, EC2 Container Service, RDS, Lambda, Simple Email Service, API Gateway), **Docker**, **Git**, **PHP** (Laravel, Dingo), **JavaScript** (Node, React, Redux, Angular), **Wordpress**, **Python**, **MySQL**, **Java**, **Ruby**, **HTML**, **CSS** (Less, Sass)
-
-# Resume
-[Download](assets/downloads/KeenanVillaniHolland.pdf)
