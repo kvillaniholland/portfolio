@@ -6,6 +6,7 @@ title: Keenan Villani-Holland
 
 I'm a web developer currently living in Tokyo. I care about keeping my code elegant, clean and maintainable. I have experience building and deploying web apps from scratch as well as working within various content management systems. I love learning to use new languages, frameworks and tools.
 
+----------------------
 
 # Portfolio
 - ![Localvore](assets/images/localvore.png)
