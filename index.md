@@ -23,7 +23,7 @@ I'm a web developer currently living in Tokyo. I care about keeping my code eleg
 - ![eMeal](assets/images/emeal.png)
   - eMeal
   - Developed a single page app using **Laravel** for the APP and **Backbone.js** for the frontend.
-  - Built integration with **Omnivore.io** to connect the eMeal to POS systems in restaurants.
+  - Built integration with **Omnivore.io** to connect eMeal to POS systems in restaurants.
 - ![HomeView](assets/images/homeview.png)
   - HomeView
   - Assisted with a complete rewrite of the frontend using **React** and **Redux**.
