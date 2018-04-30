@@ -11,37 +11,31 @@ I'm a web developer currently living in Tokyo. I care about keeping my code eleg
 # Portfolio
 - ![Localvore](assets/images/localvore.png)
   - Localvore  
-  - Built and maintained a single page app using **Laravel** for the API and **Backbone.js** for the frontend.
-  - Helped coordinate development and delivery as project anchor.
+  - **Product:** A Groupon competitor, with a focus on supporting local business.
+  - **Project:** A single page app for browsing and purchasing coupon deals, with an administrator panel to create and manage deals.
+  - **Process:** The API was built with **Laravel** and **MySQL**. The client was built with **Backbone.js**. The app was hosted on **AWS**, using **ECS** and **RDS**.
+  - **Responsibilities:** As a member of the development team, I was partially responsible for building new features and maintaining existing code, as well as reviewing code before it was deployed. As project anchor, I helped coordinate with the project manager, the client and the rest of the developers to plan and deliver work.
 - ![Green Mountain Power](assets/images/gmp.jpg)
   - Green Mountain Power
-  - Maintained and developed a custom **Wordpress** theme, including custom plugin development
-   and extensive use of **Advanced Custom Fields**.
-  - Refactored legacy build system in order to streamline it, and provide support for **ES6**.
-  - Implemented designs by and external design team.
-  - Helped coordinate development, delivery and project planning as project anchor.
-- ![eMeal](assets/images/emeal.png)
-  - eMeal
-  - Developed a single page app using **Laravel** for the APP and **Backbone.js** for the frontend.
-  - Built integration with **Omnivore.io** to connect eMeal to POS systems in restaurants.
-- ![HomeView](assets/images/homeview.png)
-  - HomeView
-  - Assisted with a complete rewrite of the frontend using **React** and **Redux**.
-  - Brought the rewrite to feature parity with the legacy app.
-  - Developed a mobile app with **Cordova**.
-- ![GMP Controller](assets/images/controller.png)
-  - Green Mountain Power Controller
-  - Maintained and extended internal tools for Green Mountain Power.
-  - Built with **Angular**.
-- ![EstateAlerts](assets/images/ea.png)
-  - EstateAlerts
-  - Assisted with various bugs and improvements on both the backend (**Laravel**) and front-end (**React**, **Redux**).
-  - Extensive debugging of the automated alert system built with **Laravel** and **AWS** (using **SNS** and **Lambda**).
-- ![DC Greens](assets/images/dcg.png)
-  - DC Greens
-  - Helped build an admin dashboard using **React** and **Redux**.
-  - Helped maintain the API built with **Laravel**.
-  - Worked on the Android app, built with **Cordova**.
+  - **Product:** A website built for a local power company, including several interactive maps, and a sales section.
+  - **Project:** A highly customized **Wordpress** install.
+  - **Process:** The site included a highly customized Wordpress theme, several custom Wordpress plugins, extensive use of the  **Advanced Custom Fields** plugin, and custom **JavaScript**. The site was hosted with **WPEngine**.
+  - **Responsibilities:** As the lead developer, I was responsible for developing new features and implementing new designs. I also modernized the build process and added support for **ES6**. As project anchor, I was responsible for attending meetings with the client twice a week to deliver features, address bugs, and plan future work.
 - ![Wildfire](assets/images/wf.png)
   - WildFire
-  - Built the first version of the API using **Node**, **Express** and **AWS DynamoDB**.
+  - **Product:** A platform for connecting users with volunteer opportunities, and rewarding them with rewards donated by participating local businesses.
+  - **Project:** An API, to be consumed a single page app (developed separately).
+  - **Process:** The API was built with **Node**, using **Express.js**, and used **AWS DynamoDB** for a datastore. It was hosted on **AWS ECS**, using **Docker**.
+  - **Responsibilites:** As freelance developer, I was responsible for developing the entire API, as well as meeting with the client to determine requirements, deliver work and address bugs.
+- ![eMeal](assets/images/emeal.png)
+  - eMeal
+  - **Product**: A web app for ordering food at restaurants, either for table service, or to-go orders.
+  - **Project:** A single page app with point of sale system integration for browsing restaurants and menus, placing orders and splitting bills.
+  - **Process:** The API was built with **Laravel** and used **Omnivore.io** for POS integration. The client was built with **Backbone.js** and **LESS**. The app was hosted on **AWS**, using **Docker** and **ECS** for the servers and **RDS** for the database.
+  - **Responsibilities:** As lead developer and project anchor, I was responsible for developing new features, maintaining the codebase and coordinating with the client, as well as with Omnivore and occasionally with point of sale companies to resolve issues with the point of sale integration.
+- ![HomeView](assets/images/homeview.png)
+  - HomeView
+  - **Product:** A web app and corresponding iOS app for homeowners to keep track of their properties.
+  - **Project:** A complete rewrite of client, using the pre-existing API.
+  - **Process:** The rewrite used **React** and **Redux**, and was hosted and deployed by the client. The iOS app was built using **Cordova**.
+  - **Responsibilities:** As a developer, I was responsible for understanding the functionality of the existing client, and replicating in the rewrite. I also attended several meetings with the client to deliver work, address bugs, and plan future work. I also helped create documentation for the existing API, which was undocumented at the start of the project.
