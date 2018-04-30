@@ -2,7 +2,7 @@
 title: Keenan Villani-Holland
 ---
 # About Me
-[Resume](assets/downloads/KeenanVillaniHolland.pdf) | [GitHub](http://github.com/kvillaniholland) | [LinkedIn](https://www.linkedin.com/in/keenan-villani-holland-a8381a69) | [Email](mailto:kvillaniholland@gmail.com)
+[Resume](assets/downloads/KeenanVillaniHolland.pdf) | [GitHub](http://github.com/kvillaniholland) | [LinkedIn](https://www.linkedin.com/in/keenan-villani-holland-a8381a69) | [Email](mailto:keenan@kvillaniholland.codes)
 
 I'm a web developer currently living in Tokyo. I care about keeping my code elegant, clean and maintainable. I have experience building and deploying web apps from scratch as well as working within various content management systems. I love learning to use new languages, frameworks and tools.
 
