@@ -4,7 +4,7 @@ title: Keenan Villani-Holland
 # About Me
 [Resume](assets/downloads/KeenanVillaniHolland.pdf) | [GitHub](http://github.com/kvillaniholland) | [LinkedIn](https://www.linkedin.com/in/keenan-villani-holland-a8381a69) | [Email](mailto:keenan@kvillaniholland.codes)
 
-I'm a full-stack web developer with experience building and deploying web apps from scratch, maintaining and improving existing code, as well as working within various content management systems. I care about keeping my code elegant, clean and maintainable. I think tech stacks should be chosen based on business goals, not the other way around. I'm always happy to learn new languages, frameworks and tools.
+I'm a full-stack web developer with experience building and deploying web apps from scratch, maintaining and improving existing code, as well as working within various content management systems. I care about keeping my code elegant, clean and maintainable. I'm always happy to learn new languages, frameworks and tools.
 
 ----------------------
 
